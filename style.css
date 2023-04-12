@@ -687,3 +687,6 @@ img {
         transform: rotateY(360deg)
     }
 }
+.contenido p{
+    margin: .5rem;
+}
