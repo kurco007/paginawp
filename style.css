@@ -691,6 +691,6 @@ img {
         transform: rotateY(360deg)
     }
 }
-.card-p c.contenido a{
+.card-p .contenido a{
     margin-bottom: 1rem;
 }
