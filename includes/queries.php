@@ -13,9 +13,9 @@ function proyectos_lista($cantidad = -1) {
                 while($clases->have_posts()) {
                     $clases->the_post();
                 ?>
-                    <li class="card">
+                    <li class="card card-p">
                         <?php the_post_thumbnail(); ?>
-                        <div class="box box-p">
+                        <div class="box">
                             <div class="contenido">
                             <a href="<?php the_permalink(); ?>">
                                 <h3><?php the_title(); ?></h3>

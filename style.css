@@ -631,9 +631,7 @@ img {
     padding-top: 11rem;
     margin: 0;
 }
-.box-p{
-    padding-top: 0rem;
-}
+
 /*** Contacto ***/
 
 /*** Front-page ***/
@@ -693,9 +691,6 @@ img {
         transform: rotateY(360deg)
     }
 }
-<<<<<<< HEAD
-=======
-.contenido p{
-    margin: .5rem;
+.card-p c.contenido a{
+    margin-bottom: 1rem;
 }
->>>>>>> master
