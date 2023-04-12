@@ -15,7 +15,7 @@ function proyectos_lista($cantidad = -1) {
                 ?>
                     <li class="card">
                         <?php the_post_thumbnail(); ?>
-                        <div class="box">
+                        <div class="box box-p">
                             <div class="contenido">
                             <a href="<?php the_permalink(); ?>">
                                 <h3><?php the_title(); ?></h3>
