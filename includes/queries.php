@@ -63,13 +63,13 @@ function trabajos_lista($cantidad = -1) {
                             ?>
 
                             <p>
-                            Trabajo:  <?php echo $tipo_de_trabajo; ?>    |
-                            Proyecto de <?php echo $tipo_de_proyecto; ?>
+                            Trabajo:  <?php echo $tipo_de_trabajo; ?>
                             </p>
+                            <p>Proyecto de <?php echo $tipo_de_proyecto; ?></p>
                             </div>
                         </div>
                     </li>
-            <?php 
+            <?php
                 }
                 wp_reset_postdata();
             ?>

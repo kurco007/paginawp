@@ -23,14 +23,14 @@
 <div class="contenedor-front seccion-front ">
     <div class="proyectos">
         <div class="titulo"><h3>Proyectos</h3></div>
-        <?php proyectos_lista(2); ?>
+        <?php proyectos_lista(4); ?>
         <button class="boton boton-3">
             <a href="/proyectos">Ver Mas</a>
         </button>
     </div>
     <div class="lista">
         <div class="titulo"><h3>Trabajos</h3></div>
-            <?php trabajos_lista(2); ?>
+            <?php trabajos_lista(4); ?>
         <button class="boton boton-3">
             <a href="/trabajos">Ver Mas</a>
         </button>
