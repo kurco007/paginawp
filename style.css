@@ -44,7 +44,7 @@ p {
     font-size: 1.8rem;
     line-height: 2rem;
     font-weight: 400;
-    margin: 5px;
+
 
 }
 
@@ -611,9 +611,10 @@ img {
 .card .contenido p,
 .card .contenido .meta a {
     color: var(--blanco);
-    margin: 5px;
 }
-
+.card .contenido p{
+    margin: 5px ;
+}
 .card .meta {
     font-size: 1.4rem;
     font-weight: 700;
