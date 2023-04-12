@@ -491,7 +491,6 @@ img {
 .contenidos p {
     font-family: var(--fuenteSecundaria);
     font-size: 2rem;
-    margin: 0.5rem;
 }
 
 /*** Site Footer ***/
@@ -611,6 +610,7 @@ img {
 .card .contenido p,
 .card .contenido .meta a {
     color: var(--blanco);
+    margin: 5px;
 }
 
 .card .meta {
