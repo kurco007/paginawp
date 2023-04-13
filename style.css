@@ -681,6 +681,7 @@ img {
     color: var(--colorprincipal);
     text-transform: uppercase;
     animation: flip 2s infinite;
+    font-size: 2rem;
     animation-delay: calc(.2s * var(--i))
 }
 
@@ -694,3 +695,8 @@ img {
 .card-p .contenido a{
     margin-bottom: 1rem;
 }
+@media (min-width: 768px ) 	 { 
+    .wavy span {
+        font-size: 5rem;
+    }
+ }
