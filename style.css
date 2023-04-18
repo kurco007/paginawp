@@ -695,11 +695,12 @@ img {
 .card-p .contenido a{
     margin-bottom: 1rem;
 }
-.wavy span {
-    font-size: 2rem;
-}
-@media (min-width: 768px ) 	 { 
+
+@media (min-width: 768px ) 	 {
     .wavy span {
         font-size: 5rem;
     }
- }
+}
+.wavy span {
+    font-size: 2rem;
+}
