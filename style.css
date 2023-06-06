@@ -234,7 +234,7 @@ img {
     background-image: url(imgs/icons/instagram.svg);
 }
 
-.sociales a[href*="linkedin.com"]::before {
+.sociales a[href*="https: //www.linkedin.com/in/francisco-jesús-kurt-cruz-garcia-90a239194/"]::before {
     background-image: url(imgs/icons/iconmonstr-linkedin-3.svg);
 }
 
